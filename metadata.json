@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Vehicle DRL Decision Making",
+  "description": "Deep Reinforcement Learning (PPO) for Autonomous Vehicle Decision Making: Simulation, Training, Evaluation, and Analytics Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
